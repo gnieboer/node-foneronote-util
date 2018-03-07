@@ -1,5 +1,5 @@
 {
-  "name": "cryptonote-util",
+  "name": "foneronote-util",
   "version": "0.0.3",
   "main": "cryptonote",
   "author": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/fonero-project/node-cryptonote-util.git"
+    "url": "git+https://github.com/gnieboer/node-foneronote-util.git"
   },
   "dependencies": {
     "bindings": "*",
@@ -27,10 +27,10 @@
   "readmeFilename": "README.md",
   "description": "Node-Cryptonote-Util ====================",
   "bugs": {
-    "url": "https://bitbucket.org/fonero-project/node-cryptonote-util/issues"
+    "url": "https://github.com/gnieboer/node-foneronote-util/issues"
   },
-  "homepage": "https://bitbucket.org/fonero-project/node-cryptonote-util#readme",
-  "_id": "cryptonote-util@0.0.3",
+  "homepage": "https://github.com/gnieboer/node-foneronote-util",
+  "_id": "foneronote-util@0.0.4",
   "_shasum": "3105e8da76450c34b83a59633b0e63df7d9f0e68",
   "_from": "git://github.com/romankosoj/node-cryptonote-util.git",
   "_resolved": "git://github.com/romankosoj/node-cryptonote-util.git#b5474a8adff6786d2e3f86c5003c0833ca59aa5d"
