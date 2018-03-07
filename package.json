@@ -1,14 +1,10 @@
 {
   "name": "foneronote-util",
-  "version": "0.0.3",
+  "version": "0.9.0",
   "main": "cryptonote",
-  "author": {
-    "name": "LucasJones",
-    "email": "lucasjonesdev@hotmail.co.uk"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnieboer/node-foneronote-util.git"
+    "url": "https://github.com/gnieboer/node-foneronote-util.git"
   },
   "dependencies": {
     "bindings": "*",
@@ -16,22 +12,8 @@
   },
   "keywords": [
     "cryptonight",
-    "cryptonote"
-  ],
-  "scripts": {
-    "install": "node-gyp rebuild"
-  },
-  "gypfile": true,
-  "gitHead": "b5474a8adff6786d2e3f86c5003c0833ca59aa5d",
-  "readme": "Node-Cryptonote-Util\n====================\n\nDependencies\n------------\n\n* Boost (http://www.boost.org/)",
-  "readmeFilename": "README.md",
-  "description": "Node-Cryptonote-Util ====================",
-  "bugs": {
-    "url": "https://github.com/gnieboer/node-foneronote-util/issues"
-  },
-  "homepage": "https://github.com/gnieboer/node-foneronote-util",
-  "_id": "foneronote-util@0.0.4",
-  "_shasum": "3105e8da76450c34b83a59633b0e63df7d9f0e68",
-  "_from": "git://github.com/romankosoj/node-cryptonote-util.git",
-  "_resolved": "git://github.com/romankosoj/node-cryptonote-util.git#b5474a8adff6786d2e3f86c5003c0833ca59aa5d"
+    "cryptonote",
+    "forknote",
+    "bytecoin"
+  ]
 }
